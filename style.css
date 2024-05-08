@@ -1,0 +1,96 @@
+body{
+    text-align: center;
+    padding: auto;
+    margin-top: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 20px;
+    background-color: antiquewhite;
+    
+}
+.image{
+    display:flex;
+    align-content: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.preparation{
+    background-color: antiquewhite;
+    margin: 20px;
+    align-content: flex-start;
+    border-radius: 30px;
+}
+h4{
+    text-align: center;
+    color: antiquewhite;
+}
+.Ingredients{
+    align-content: flex-start;
+
+}
+h3{
+    color: brown;
+}
+h5{
+    color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: auto;
+   
+}
+
+th{
+    border: 1px solid #ddd; 
+    padding: 8px; 
+    text-align: left; 
+    color: black;
+}
+
+ td {
+    border: 1px solid #ddd; 
+    padding: 8px; 
+    text-align: left; 
+    color: black;
+}
+
+h6 {
+    margin-bottom: 10px; /
+    text-decoration: underline; 
+    color: black;
+}
+.attribution {
+    font-size: 14px; 
+    text-align: center; 
+    margin-top: 20px; 
+    padding-bottom: 10px;
+}
+
+.attribution a {
+    color: #0366d6; 
+    text-decoration: none; 
+    margin: 0 5px; 
+}
+
+.attribution a:hover {
+    text-decoration: underline; 
+}
+.container{
+    background-color: aliceblue;
+    border-radius: 30px;
+}
+td{
+    color:brown;
+}
+.instruction{
+    margin-left: 10px;
+    margin-right: 10px;
+}
